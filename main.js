@@ -84,4 +84,3 @@
 let str = 'salom'
 
 console.log(str.split('', 2));
-
